@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # App Title
-st.title("Business Valuation Tool")
+st.title("The Business Dog")
 st.subheader("Discover Your Business's Fair Market Value")
 
 # Sidebar Inputs
